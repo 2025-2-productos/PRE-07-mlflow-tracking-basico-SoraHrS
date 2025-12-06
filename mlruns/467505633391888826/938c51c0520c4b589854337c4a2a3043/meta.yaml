@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SORANY/Documents/UNIVERSIDAD/SEMESTRE 5/PDD/talleres/PRE-07-mlflow-tracking-basico-SoraHrS/mlruns/467505633391888826/938c51c0520c4b589854337c4a2a3043/artifacts
+end_time: 1765041302836
+entry_point_name: ''
+experiment_id: '467505633391888826'
+lifecycle_stage: active
+run_id: 938c51c0520c4b589854337c4a2a3043
+run_name: knn_b9b8fc46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765041298902
+status: 3
+tags: []
+user_id: SORANY
